@@ -937,6 +937,7 @@ main {
   grid-template-columns: 1fr;
   gap: 30px;
   margin-bottom: 10px;
+  object-fit: cover;
 }
 
 .project-item { display: none; }
